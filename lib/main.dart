@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:pagedao/screens/home_screen.dart';
+import 'package:pagedao/main_provider.dart';
+import 'package:pagedao/screens/home_scaffold/home_screen.dart';
 import 'package:pagedao/screens/test_home_screen.dart';
 import 'package:provider/provider.dart';
 
@@ -116,7 +117,7 @@ class _MyAppState extends State<MyApp> {
                     onWillPop: () async {
                       return false;
                     },
-                    child: const TestHomeScaffold())),
+                    child: const MainProvider(child: TestHomeScaffold()))),
           );
         });
   }

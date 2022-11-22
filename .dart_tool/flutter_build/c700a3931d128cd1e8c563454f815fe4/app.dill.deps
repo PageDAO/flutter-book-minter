@@ -551,13 +551,13 @@ file:///home/gold/developer/PageDAO/flutter_minter/.dart_tool/flutter_build/c700
 file:///home/gold/developer/PageDAO/flutter_minter/.dart_tool/flutter_build/c700a3931d128cd1e8c563454f815fe4/web_plugin_registrant.dart
 file:///home/gold/developer/PageDAO/flutter_minter/.dart_tool/package_config.json
 file:///home/gold/developer/PageDAO/flutter_minter/lib/constants/contractAddr.dart
-file:///home/gold/developer/PageDAO/flutter_minter/lib/constants/membership721ABI.dart
 file:///home/gold/developer/PageDAO/flutter_minter/lib/jsPackages/isolate_membership_nft_check.dart
-file:///home/gold/developer/PageDAO/flutter_minter/lib/jsPackages/membership_nft_check.dart
 file:///home/gold/developer/PageDAO/flutter_minter/lib/jsPackages/metamask.dart
 file:///home/gold/developer/PageDAO/flutter_minter/lib/main.dart
+file:///home/gold/developer/PageDAO/flutter_minter/lib/main_provider.dart
 file:///home/gold/developer/PageDAO/flutter_minter/lib/screens/activity/activity_screen.dart
-file:///home/gold/developer/PageDAO/flutter_minter/lib/screens/home_screen.dart
+file:///home/gold/developer/PageDAO/flutter_minter/lib/screens/home_scaffold/home_screen.dart
+file:///home/gold/developer/PageDAO/flutter_minter/lib/screens/home_scaffold/top_bar.dart
 file:///home/gold/developer/PageDAO/flutter_minter/lib/screens/market/market_screen.dart
 file:///home/gold/developer/PageDAO/flutter_minter/lib/screens/publish/publish_screen.dart
 file:///home/gold/developer/PageDAO/flutter_minter/lib/screens/test_home_screen.dart

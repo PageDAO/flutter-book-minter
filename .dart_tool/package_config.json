@@ -128,12 +128,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "metamask",
-      "rootUri": "file:///home/gold/.pub-cache/hosted/pub.dartlang.org/metamask-0.0.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.16"
-    },
-    {
       "name": "nested",
       "rootUri": "file:///home/gold/.pub-cache/hosted/pub.dartlang.org/nested-1.0.0",
       "packageUri": "lib/",
@@ -236,7 +230,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2022-11-22T03:19:44.124104Z",
+  "generated": "2022-11-22T04:05:51.378634Z",
   "generator": "pub",
   "generatorVersion": "2.18.2"
 }

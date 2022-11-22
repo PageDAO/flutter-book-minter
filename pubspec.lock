@@ -142,13 +142,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.8.0"
-  metamask:
-    dependency: "direct main"
-    description:
-      name: metamask
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.0.2"
   nested:
     dependency: transitive
     description:
